@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.19.2",
+    "minhas-series-server": "https://github.com/tuliofaria/minhas-series-server",
+    "react-router-dom": "^5.1.2"
+  }
+}
